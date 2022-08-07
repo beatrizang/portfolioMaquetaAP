@@ -65,9 +65,10 @@ header{
 .checkbtn{
     font-size: 30px;
     color: aliceblue;
-    float: right;
+    float: left;
     line-height: 80px;
     margin-right: 40px;
+    margin-left: 0;
     cursor: pointer;
     display: none;
 }
@@ -380,11 +381,8 @@ footer{
     transition: .8s ease;
 }
 
-@media (max-width: 952px){
 
-}
-
-@media (max-width: 858px){
+@media (max-width: 1000px){
     .checkbtn{
         display: block;
     }
