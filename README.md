@@ -1,5 +1,5 @@
 # Argentina Programa
-![](img/APLogo-20-20.png)
+![](img/ap.jpg)
 
 Esta maqueta fue realizada para el portfolio de proyecto final para Argentina Programa segunda estapa #SeProgramar
 
